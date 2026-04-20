@@ -1,4 +1,4 @@
-# 🧠 Noir Puzzles
+# 👽 Noir Puzzles
 
 This repository contains my solutions to the **RareSkills Noir Puzzles**, which are designed to teach the fundamentals of Zero-Knowledge programming using the Noir language.
 
