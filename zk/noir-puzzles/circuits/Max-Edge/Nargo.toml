@@ -1,0 +1,7 @@
+[package]
+name = "cM4rko"
+authors = ["RareSkills"]
+compiler_version = "1.0.0"
+type = "bin"
+
+[dependencies]

@@ -1,0 +1,15 @@
+// Modify the "main" function to raise x by the power of y and return the result of the exponent.
+
+fn main(x : Field, y : Field) -> pub Field {
+  x.pow_32(y)
+}
+
+////////////////////
+//     TESTS      //
+////////////////////
+#[test]
+// Do not modify this function
+fn test_power() {
+  assert(main(2, 4) == 16);
+  assert(main(32, 5) == 33554432);
+}
